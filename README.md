@@ -2,8 +2,8 @@
 Данный плагин добавляет на сервер возможность установить кастомные скины на оружие
 
 ## Для работы плагина требуется: 
-- **CounterStrikeSharp**
-- **Metamod:Source**
+- [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
+- [Metamod:Source](https://www.metamodsource.net/downloads.php/?branch=master)
 
 ## Команды:
 - **css_cw** - Меню скинов
