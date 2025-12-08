@@ -26,7 +26,7 @@
   "DatabasePort": 3306, // Порт базы данных
   "DatabaseUser": "user", // Пользователь базы данных
   "DatabasePassword": "pass", // Пароль от пользователя базы данных
-  "DatabaseName": "database", // Название базы данных
+  "DatabaseName": "database" // Название базы данных
 }
 ```
 ## Установка:
