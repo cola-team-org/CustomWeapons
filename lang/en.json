@@ -1,0 +1,8 @@
+{
+  "MainMenuTitle": "Choose a weapon",
+  "MenuChooseSkinTitle": "Choose a skin",
+  "ItemDisableSkin": "Disable skin",
+  
+  "SkinSuccessRemove": "Model successfully disabled!",
+  "SkinSuccessInstall": "Model {0} successfully installed!"
+}

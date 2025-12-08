@@ -1,0 +1,8 @@
+{
+	"MainMenuTitle": "Выберите оружие:",
+	"MenuChooseSkinTitle": "Выберите скин:",
+	"ItemDisableSkin": "Отключить скин",
+	
+	"SkinSuccessRemove": "Модель успешно отключена!",
+	"SkinSuccessInstall": "Модель {0} успешно установлена!"
+}
